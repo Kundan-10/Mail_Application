@@ -8,8 +8,8 @@
 		<version>2.7.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.swapnil</groupId>
-	<artifactId>MasaiMailApplication</artifactId>
+	<groupId>com.mail</groupId>
+	<artifactId>Mail_Application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MasaiMailApplication</name>
 	<description>Demo project for Spring Boot</description>
